@@ -1,0 +1,11 @@
+#!/bin/sh
+
+uci -q batch <<-EOF >/dev/null
+	delete ucitrack.@usbnet[-1]
+	add ucitrack usbnet
+	set ucitrack.@usbnet[-1].init=usbnet
+	commit ucitrack
+EOF
+
+rm -f /tmp/luci-indexcache
+exit 0

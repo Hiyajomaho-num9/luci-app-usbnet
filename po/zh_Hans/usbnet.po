@@ -1,0 +1,18 @@
+msgid "usbnet"
+msgstr "USB供网"
+
+msgid "Used to waste the GPRS data traffic of the mobile phone 2G, 3G, 4G, 5G band"
+msgstr "用于浪费手机2G,3G,4G,5G频段的GPRS数据流量,专治宽带断网流量多,也可多设备组网,如果你的路由不会因为电压被拉低而崩溃的话(需要手机打开</font><a style=\"cursor:pointer;color: #1E90FF;\" onclick=\"window.open('https://jingyan.baidu.com/article/09ea3ede1cfbf1c0aede391d.html')\">USB共享网络</a>)"
+
+msgid "Enabled IPV4"
+msgstr "启用IPV4"
+
+msgid "Enabled IPV6"
+msgstr "启用IPV6"
+
+msgid "Automatically configure load balancing"
+msgstr "自动配置负载均衡"
+
+msgid "Automatically configure USB network interfaces to load balancing"
+msgstr "自动将USB网络接口配置到负载均衡(可与拨号或多拨叠加提升小蚂蚁带宽)"
+
